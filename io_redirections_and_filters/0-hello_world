@@ -1,2 +1,2 @@
 #!/bin/bash
-prinkfdktf "Hello, World\n"
+printf "Hello, World\n"
